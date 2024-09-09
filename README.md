@@ -1,14 +1,14 @@
 ![MasterHead](https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?w=1480&t=st=1695241719~exp=1695242319~hmac=777300b3ab555fa2a7d687edb95ffae771675fd6e4aebd154f1dee9e1b74338b)
-<h1 align="center">Hi 👋, I'm vanum jeevan jyothi kumar</h1>
-<h3 align="center">A passionate DATA SCIENTIST from India</h3>
+<h1 align="center">Hi 👋, I'm JEEVAN </h1>
+<h3 align="center">A passionate DATA SCIENCE specialization student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevankumar111&label=Profile%20views&color=0e75b6&style=flat" alt="jeevankumar111" /> </p>
 
 - 🌱 I’m currently learning **Python**
-{- 💬 Ask me about **python,R,SQL,DBMS**
+{- 💬 Ask me about **DSA,Advance_python,SQL,MS-Excel,Power BI,NLP,ML**
 
-- 📫 How to reach me **jeevan938142@gmail.com**
+- 📫 How to reach me **vanumjeevanjyothikumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
